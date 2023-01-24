@@ -11,9 +11,9 @@
 
 int main(int argc, char **argv){
 
-    char *input =  strtol(*argv, NULL, 10);
+    //char *input =  strtol(*argv, NULL, 10);
 
-    printf("%s", input);
+    printf("%s", "hello");
 
 
 
