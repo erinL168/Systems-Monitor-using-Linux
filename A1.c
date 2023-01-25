@@ -13,7 +13,7 @@ int main(int argc, char **argv){
 
     //char *input =  strtol(*argv, NULL, 10);
 
-    printf("%s", "hello");
+    printf("%s", argv[0]);
 
 
 
