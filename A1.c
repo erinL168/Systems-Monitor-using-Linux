@@ -50,16 +50,19 @@ void userC(){
     struct utmp* data;
     char aux[50];
     data = getutent();
+    int counter = 0;
     //getutent() populates the data structure with information 
     while(data != NULL )
     {
         /*make sure to use strncpy 
          *because most data fiels in the utmp struct 
          *have ___nonstring___ atribute */
+        
         strncpy(aux, data->ut_user, 32);
                 aux[32] = '\0';
-        printf("ut_user: %s\n", aux);
+        printf("%s    %d %s", aux, counter, data -> ut_session, );
         printf("ut_type: %hi\n\n", data->ut_type);
+        counter++;
         data = getutent();
     }
     
