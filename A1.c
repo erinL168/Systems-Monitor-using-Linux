@@ -76,12 +76,12 @@ int main(int argc, char **argv){
     printf("%s | %d", argv[1], num);
 
     if (num == 0){defaultC(); }
-    else if (num ==1){systemC(); }
+    // else if (num ==1){systemC(); }
     else if (num == 2){userC(); }
-    else if (num == 3){graphicsC(); }
-    else if (num == 4){sequentialC(); }
-    else if (num == 5){samplesC();}
-    else if (num == 6){tdelayC();}
+    // else if (num == 3){graphicsC(); }
+    // else if (num == 4){sequentialC(); }
+    // else if (num == 5){samplesC();}
+    // else if (num == 6){tdelayC();}
     else{
         printf("%s", "INVALID COMMAND");
     }
