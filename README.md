@@ -1,4 +1,4 @@
-# b09_A1
+# Systems Monitor Using C and Linux
 
 This project is a system monitor written in C using MATLAB that accepts different commands to give you the following information about your PC:
 - CPU Usage
