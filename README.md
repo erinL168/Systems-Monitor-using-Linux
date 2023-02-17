@@ -17,7 +17,7 @@ Knowledge Required for this Project:
 
 
 Default Command
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a511a3d4-6e1a-4603-9032-3e5120944a2d/Untitled.png)
+![image](https://user-images.githubusercontent.com/57912076/219799032-9db41985-f517-44e7-97a2-595369098c1e.png)
 
 Memory and CPU
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6763bc20-9f0a-443d-8ee7-e17532bff482/Untitled.png)
+![image](https://user-images.githubusercontent.com/57912076/219799095-4b1ca49f-8c2b-4e20-aceb-92a511edc8b2.png)
