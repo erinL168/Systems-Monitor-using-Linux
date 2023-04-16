@@ -10,6 +10,7 @@ Knowledge Required for this Project:
 - Bash Commands
 - Linux Commands
 - Vi Editor
+- Pipes and Signals
 - Visual Studio
 - Proficient Knowledge in C
 - Powershell and Terminal
